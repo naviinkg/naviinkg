@@ -53,6 +53,7 @@ Postman, Jira, Confluence, Chrome DevTools Figma, Git, Github, React DevTools, R
 - 🎉 **Event Finder**: A web application for browsing, creating, and managing events.
 - ✈️ **Airlines On-Time Performance Analysis**: Data analysis project using statistical methods and machine learning.
 - 🩺 **Diabetes Prediction with SVM**: Applied SVM to predict diabetes onset using the Pima Indians dataset.
+- **Amazon-Product-Reviews-NLP-Analysis**:This project focuses on analyzing Amazon product reviews using Natural Language Processing (NLP) techniques
 
 ## 🏆 Achievements
 
